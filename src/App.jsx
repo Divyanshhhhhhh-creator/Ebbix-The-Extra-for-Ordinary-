@@ -55,7 +55,6 @@ const StreamingApp = () => {
                             <Menu className="w-6 h-6" />
                         </button>
                         <span className={`text-2xl font-bold ${isDarkMode ? 'text-cyan-400' : 'text-cyan-600'}`}>
-                            <img src={'logo.png'} alt={"Logo Ebbix"} loading="lazy" />
                             Ebbix<br/>
             </span>
                     </div>
